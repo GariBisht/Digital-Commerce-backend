@@ -7,7 +7,7 @@ const Wishlist = require("../models/productWishlist");
 const mongoose = require("mongoose");
 
 /**
- * @api {post} /api/category/add Add Category
+ * @api {post} /api/category/add Add Category section
  * @apiName Add Category
  * @apiGroup Category
  * @apiBody {String} name  Category Name.
